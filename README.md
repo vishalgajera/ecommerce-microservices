@@ -2,13 +2,13 @@
 
 I've created the following APIs to cover the basic use cases of the e-commerce application.
 
-- [API Gateway] (https://github.com/vishalgajera/ecommerce-microservices/tree/main/api-gateway)
-- [Discovery Service] (https://github.com/vishalgajera/ecommerce-microservices/tree/main/service-registry)
-- [Auth Server] (https://github.com/vishalgajera/ecommerce-microservices/tree/main/auth-server)
-- [User Management Service] (https://github.com/vishalgajera/ecommerce-microservices/tree/main/user-service)
-- [Product Management Service] (https://github.com/vishalgajera/ecommerce-microservices/tree/main/product-service)
-- [Shopping Cart Service] (https://github.com/vishalgajera/ecommerce-microservices/tree/main/shopping-cart-service)
-- [Order Placement Service] (https://github.com/vishalgajera/ecommerce-microservices/tree/main/order-service)
+- [API Gateway](https://github.com/vishalgajera/ecommerce-microservices/tree/main/api-gateway)
+- [Discovery Service](https://github.com/vishalgajera/ecommerce-microservices/tree/main/service-registry)
+- [Auth Server](https://github.com/vishalgajera/ecommerce-microservices/tree/main/auth-server)
+- [User Management Service](https://github.com/vishalgajera/ecommerce-microservices/tree/main/user-service)
+- [Product Management Service](https://github.com/vishalgajera/ecommerce-microservices/tree/main/product-service)
+- [Shopping Cart Service](https://github.com/vishalgajera/ecommerce-microservices/tree/main/shopping-cart-service)
+- [Order Placement Service](https://github.com/vishalgajera/ecommerce-microservices/tree/main/order-service)
 
 ## Architecture Diagram
 
