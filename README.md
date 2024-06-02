@@ -67,13 +67,13 @@ I've created the following APIs to cover the basic use cases of the e-commerce a
 - Multiple validation we can troduce against each field & can separate out "Available Quanity" feature from product entity to different level like, area(warehouse) level available Quanity & many more
 - we can apply multiple government complinace here as well. e.g. restricted products like Drugs etc. must be blocked immediately
 - we can also put checks about each product expiry related details, country-of-origin etc
-  -- Ratings/Like/Comments against each product, this is another BIG topic which comes under product. so that our end user can have more trust over their purchase & we can gain more trust for our platform
-  -- Discount/Sale etc can comes at any time on our platform so according to it many things would take place into our entire accounting areas including Profit/Loss.
+- Ratings/Like/Comments against each product, this is another BIG topic which comes under product. so that our end user can have more trust over their purchase & we can gain more trust for our platform
+- Discount/Sale etc can comes at any time on our platform so according to it many things would take place into our entire accounting areas including Profit/Loss.
 
 ### Order Placement Service
 - Order Cancellation I've not covered in existing code but due in the interest of time, I've not covered. but it's definately "mandatory" condition. Against each cancellation(if it's not yet delivered) then we should have to add those Quanity back to available once it reach back to warehouse.
 - we can split the order according to the early delivery based upon items (when multi item present into the order)
-  -- Delivery service is another biggest topic to be consider incluging multiple delivery services e.g. 1-day(Fastest), 2-day(Standard) mode of a delivery
+- Delivery service is another biggest topic to be consider incluging multiple delivery services e.g. 1-day(Fastest), 2-day(Standard) mode of a delivery
 
 ### Notification
 - Mobile/Web Push Notification
